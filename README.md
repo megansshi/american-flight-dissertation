@@ -4,4 +4,4 @@ app.R: leaflet interaction map for airline
 regression.R: regression and clustering analysis
 lines_map1.R: flight flow
 COVID-19.qgz:qgis file for covid19 map
-all the data can be find in data set
+
